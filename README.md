@@ -117,4 +117,9 @@ http://localhost:8080/api/rates
 ...
 ]
 ```
+### 🌐 Live Demo
+You can check out the deployed application here:
+
+[Bundesbank Exchange Rate API](https://bundesbank-exchange-rate.onrender.com/swagger-ui/index.html)
+
 ---
